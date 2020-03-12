@@ -1,5 +1,5 @@
 /** Array.of
- * USE: creates a new Array from a some arguments
+ * USE: creates a new Array from some arguments
  */
 
 //Using Array.of
